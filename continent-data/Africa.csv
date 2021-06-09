@@ -1,0 +1,56 @@
+,iso_code,location,total_cases,total_deaths
+0,AGO,Angola,9026.0,267.0
+1,BDI,Burundi,556.0,1.0
+2,BEN,Benin,2557.0,41.0
+3,BFA,Burkina Faso,2451.0,65.0
+4,BWA,Botswana,5923.0,21.0
+5,CAF,Central African Republic,4862.0,62.0
+6,CIV,Cote d'Ivoire,20470.0,122.0
+7,CMR,Cameroon,21570.0,425.0
+8,COD,Democratic Republic of Congo,11142.0,304.0
+9,COG,Congo,5253.0,92.0
+10,COM,Comoros,517.0,7.0
+11,CPV,Cape Verde,8396.0,94.0
+12,DJI,Djibouti,5536.0,61.0
+13,DZA,Algeria,56143.0,1914.0
+14,EGY,Egypt,106540.0,6199.0
+15,ERI,Eritrea,461.0,0.0
+16,ESH,Western Sahara,766.0,1.0
+17,ETH,Ethiopia,93343.0,1426.0
+18,GAB,Gabon,8919.0,54.0
+19,GHA,Ghana,47690.0,316.0
+20,GIN,Guinea,11669.0,71.0
+21,GMB,Gambia,3660.0,119.0
+22,GNB,Guinea-Bissau,2403.0,41.0
+23,GNQ,Equatorial Guinea,5079.0,83.0
+24,KEN,Kenya,49721.0,902.0
+25,LBR,Liberia,1393.0,82.0
+26,LBY,Libya,56013.0,795.0
+27,LSO,Lesotho,1940.0,43.0
+28,MAR,Morocco,197481.0,3301.0
+29,MDG,Madagascar,16968.0,244.0
+30,MLI,Mali,3490.0,133.0
+31,MOZ,Mozambique,11986.0,86.0
+32,MRT,Mauritania,7662.0,163.0
+33,MUS,Mauritius,435.0,10.0
+34,MWI,Malawi,5890.0,183.0
+35,NAM,Namibia,12660.0,133.0
+36,NER,Niger,1215.0,69.0
+37,NGA,Nigeria,61992.0,1130.0
+38,RWA,Rwanda,5066.0,34.0
+39,SDN,Sudan,13742.0,837.0
+40,SEN,Senegal,15551.0,321.0
+41,SLE,Sierra Leone,2346.0,74.0
+42,SOM,Somalia,3941.0,104.0
+43,SSD,South Sudan,2883.0,56.0
+44,STP,Sao Tome and Principe,940.0,15.0
+45,SWZ,Swaziland,5854.0,116.0
+46,SYC,Seychelles,153.0,0.0
+47,TCD,Chad,1437.0,96.0
+48,TGO,Togo,2200.0,52.0
+49,TUN,Tunisia,48799.0,819.0
+50,TZA,Tanzania,509.0,21.0
+51,UGA,Uganda,11443.0,101.0
+52,ZAF,South Africa,715868.0,18968.0
+53,ZMB,Zambia,16117.0,348.0
+54,ZWE,Zimbabwe,8276.0,237.0

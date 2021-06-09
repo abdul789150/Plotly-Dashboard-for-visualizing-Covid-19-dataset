@@ -1,0 +1,11 @@
+,iso_code,continent,location,date,total_cases,new_cases,total_deaths,new_deaths,total_cases_per_million,new_cases_per_million,total_deaths_per_million,new_deaths_per_million,total_tests,new_tests,total_tests_per_thousand,new_tests_per_thousand,new_tests_smoothed,new_tests_smoothed_per_thousand,tests_units,stringency_index,population,population_density,median_age,aged_65_older,aged_70_older,gdp_per_capita,extreme_poverty,cvd_death_rate,diabetes_prevalence,female_smokers,male_smokers,handwashing_facilities,hospital_beds_per_thousand,life_expectancy
+0,WLF,Oceania,Wallis and Futuna,2020-10-17,1.0,1.0,,0.0,88.921,88.921,,0.0,,,,,,,,,11246.0,,,,,,,,,,,,,79.94
+1,WLF,Oceania,Wallis and Futuna,2020-10-18,1.0,0.0,,0.0,88.921,0.0,,0.0,,,,,,,,,11246.0,,,,,,,,,,,,,79.94
+2,WLF,Oceania,Wallis and Futuna,2020-10-19,1.0,0.0,,0.0,88.921,0.0,,0.0,,,,,,,,,11246.0,,,,,,,,,,,,,79.94
+3,WLF,Oceania,Wallis and Futuna,2020-10-20,1.0,0.0,,0.0,88.921,0.0,,0.0,,,,,,,,,11246.0,,,,,,,,,,,,,79.94
+4,WLF,Oceania,Wallis and Futuna,2020-10-21,1.0,0.0,,0.0,88.921,0.0,,0.0,,,,,,,,,11246.0,,,,,,,,,,,,,79.94
+5,WLF,Oceania,Wallis and Futuna,2020-10-22,1.0,0.0,,0.0,88.921,0.0,,0.0,,,,,,,,,11246.0,,,,,,,,,,,,,79.94
+6,WLF,Oceania,Wallis and Futuna,2020-10-23,1.0,0.0,,0.0,88.921,0.0,,0.0,,,,,,,,,11246.0,,,,,,,,,,,,,79.94
+7,WLF,Oceania,Wallis and Futuna,2020-10-24,1.0,0.0,,0.0,88.921,0.0,,0.0,,,,,,,,,11246.0,,,,,,,,,,,,,79.94
+8,WLF,Oceania,Wallis and Futuna,2020-10-25,1.0,0.0,,0.0,88.921,0.0,,0.0,,,,,,,,,11246.0,,,,,,,,,,,,,79.94
+9,WLF,Oceania,Wallis and Futuna,2020-10-26,1.0,0.0,,0.0,88.921,0.0,,0.0,,,,,,,,,11246.0,,,,,,,,,,,,,79.94
