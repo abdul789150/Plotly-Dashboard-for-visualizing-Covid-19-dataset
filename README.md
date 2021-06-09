@@ -18,6 +18,8 @@ Choropleth maps are popular thematic maps used to represent statistical data thr
 various shading patterns or symbols on predetermined geographic areas. We have used
 choropleth map for showing Covid-19 cases.
 
+![Choropleth Map](https://github.com/abdul789150/Plotly-Dashboard-for-visualizing-Covid-19-dataset-/blob/main/images/choropleth_map.png)
+
 **You can see the data of any specific country by hovering and selecting the country from Choropleth Map**
 
 ### Time Series Graphs
@@ -25,8 +27,11 @@ Time series graphs can be used to visualize trends in counts or numerical values
 Because date and time information are continuous, points are plotted along the x-axis and
 connected by a continuous line.
 
+![Time Series Graph](https://github.com/abdul789150/Plotly-Dashboard-for-visualizing-Covid-19-dataset-/blob/main/images/time_series.png)
+
 ### Box Plot Graphs
 Boxplots are a standardized way of displaying the distribution of data based on a five
 numbers summary (“minimum”, first quartile (Q1), median, third quartile (Q3), and
 “maximum”).
 
+![Box Plot Graph](https://github.com/abdul789150/Plotly-Dashboard-for-visualizing-Covid-19-dataset-/blob/main/images/box_plot.png)
