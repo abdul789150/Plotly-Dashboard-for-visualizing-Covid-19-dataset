@@ -35,3 +35,16 @@ numbers summary (“minimum”, first quartile (Q1), median, third quartile (Q3)
 “maximum”).
 
 ![Box Plot Graph](https://github.com/abdul789150/Plotly-Dashboard-for-visualizing-Covid-19-dataset-/blob/main/images/box_plot.png)
+
+
+## Libraries Required to run this dashboard
+- dash
+- dash-bootstrap-components
+- dash-html-components
+- dash-core-components
+- plotly
+- numpy
+- pandas
+
+## How to run this project
+For running your dashboard you just need to execute the ```index.py``` file from the command line
